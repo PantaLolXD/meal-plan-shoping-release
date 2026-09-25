@@ -16,7 +16,7 @@ All versions and what changed: [Releases](https://github.com/PantaLolXD/meal-pla
    - **Standalone** – everything stays on the phone. No account, no server. Add recipes with *＋ Import* on the Recipes tab.
    - **With a home server** – enter your household server's address (for example `http://10.8.0.1:3000`), then sign in; everyone shares one plan, list and pantry.
 
-   You can change this later in *Settings* (⚙ on the Recipes tab). The two keep separate data – switching does not move anything across.
+   You can change this later in the *Settings* tab. The two keep separate data – switching does not move anything across.
 
 ## Updates
 
